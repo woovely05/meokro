@@ -48,7 +48,7 @@ Flutter 3.x (Dart 3.11+)
 
 ```bash
 # 저장소 클론
-git clone https://github.com/woovely05/meokro.git
+git clone https://github.com/woovely05/meokrok.git
 cd meokrok
 
 # 의존성 설치
